@@ -1,0 +1,30 @@
+{
+  "donate": [
+    {
+      "id": 1,
+      "name": "Become a Volunteer",
+      "image": "./assets/image/hands-white.png.webp",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam."
+    },
+    {
+      "id": 2,
+      "name": "Dance & Music",
+      "image": "./assets/image/donation-white.png.webp",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam."
+    },
+    {
+      "id": 3,
+      "name": "Online Conference",
+      "image": "./assets/image/charity-white.png.webp",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam."
+    }
+  ],
+  "favorite": [
+    {
+      "id": 3,
+      "name": "Online Conference",
+      "image": "./assets/image/charity-white.png.webp",
+      "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam."
+    }
+  ]
+}
